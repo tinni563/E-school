@@ -1,0 +1,12 @@
+.img{
+    height: 100px;
+}
+#btn{
+    display: flex;
+flex-direction: row;
+align-items: center;
+padding: 12px 28px;
+position: absolute;
+background: #21B573;
+border-radius: 33px;
+}
